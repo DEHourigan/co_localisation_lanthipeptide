@@ -1,5 +1,5 @@
 ## Co-localisation of lanthipeptide biosynthetic gene clusters (BGC) with genetic determinants implicated in horizontal gene transfer (HGT)
-This body of work discovered that there are restriciton modification systemes, competenece associated genes, and other genetic determinants that are associated with the lanthipeptide biosynthetic gene clusters (BGC) in the genomes of the lanthipeptide producing bacteria.
+This body of work discovered that there are restriciton modification systems, competenece associated genes, and other genetic determinants that are associated with the lanthipeptide biosynthetic gene clusters (BGC) in the genomes of the lanthipeptide producing bacteria. These elements are localised within 20kb of the BGC. This suggests that the lanthipeptide BGCs are associated with genetic determinants that are involved in horizontal gene transfer (HGT).
 ![Example of](figures/Figure_1_overview.png "Overview")
 
 ## Conclusion
