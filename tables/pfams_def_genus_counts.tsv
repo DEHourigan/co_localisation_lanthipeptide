@@ -1,0 +1,453 @@
+pfam,desc,genus,n
+PF04851,"Type III restriction enzyme, res subunit",Streptococcus,71
+PF05016,"ParE toxin of type II toxin-antitoxin system, parDE",Streptococcus,71
+PF01420,Type I restriction modification DNA specificity domain,Streptococcus,70
+PF04221,RelB antitoxin,Streptococcus,62
+PF02384,N-6 DNA Methylase,Streptococcus,57
+PF12161,HsdM N-terminal domain,Streptococcus,49
+PF04313,Type I restriction enzyme R protein N terminus (HSDR_N),Streptococcus,47
+PF12008,Type I restriction and modification enzyme - subunit R C terminal,Streptococcus,47
+PF07669,Eco57I restriction-modification methylase,Streptococcus,46
+PF15731,"Antitoxin component of bacterial toxin-antitoxin system, MqsA",Streptococcus,39
+PF06414,Zeta toxin,Streptococcus,38
+PF00176,SNF2-related domain,Streptococcus,25
+PF13744,Helix-turn-helix domain,Streptococcus,25
+PF00271,Helicase conserved C-terminal domain,Streptococcus,20
+PF00004,ATPase family associated with various cellular activities (AAA),Bacillus,19
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Streptococcus,18
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Bacillus,17
+PF01555,DNA methylase,Streptococcus,16
+PF13173,AAA domain,Bacillus,14
+PF06114,IrrE N-terminal-like domain,Streptococcus,13
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Paenibacillus,13
+PF06114,IrrE N-terminal-like domain,Bacillus,12
+PF00004,ATPase family associated with various cellular activities (AAA),Streptomyces,11
+PF00004,ATPase family associated with various cellular activities (AAA),Streptococcus,10
+PF04149,Domain of unknown function (DUF397),Streptomyces,10
+PF04851,"Type III restriction enzyme, res subunit",Paenibacillus,10
+PF06414,Zeta toxin,Enterococcus,10
+PF09848,"Schlafen group 3, DNA/RNA helicase domain",Bacillus,10
+PF04149,Domain of unknown function (DUF397),Kitasatospora,9
+PF04851,"Type III restriction enzyme, res subunit",Mycobacterium,9
+PF13156,Restriction endonuclease,Streptococcus,8
+PF00004,ATPase family associated with various cellular activities (AAA),Corynebacterium,7
+PF00580,UvrD/REP helicase N-terminal domain,Streptococcus,7
+PF06414,Zeta toxin,Salinispora,7
+PF13166,AAA domain,Paenibacillus,7
+PF13538,UvrD-like helicase C-terminal domain,Streptococcus,7
+PF00004,ATPase family associated with various cellular activities (AAA),Rathayibacter,6
+PF00004,ATPase family associated with various cellular activities (AAA),,6
+PF04014,"Antidote-toxin recognition MazE, bacterial antitoxin",Bacillus,6
+PF07751,Abi-like protein,Streptococcus,6
+PF13173,AAA domain,Streptococcus,6
+PF07751,Abi-like protein,Rothia,5
+PF13173,AAA domain,Enterococcus,5
+PF13361,UvrD-like helicase C-terminal domain,Streptococcus,5
+PF13538,UvrD-like helicase C-terminal domain,Streptomyces,5
+PF00004,ATPase family associated with various cellular activities (AAA),Priestia,4
+PF00145,C-5 cytosine-specific DNA methylase,Enterococcus,4
+PF00145,C-5 cytosine-specific DNA methylase,Streptococcus,4
+PF00271,Helicase conserved C-terminal domain,Corallococcus,4
+PF00271,Helicase conserved C-terminal domain,Paenibacillus,4
+PF01420,Type I restriction modification DNA specificity domain,Paenibacillus,4
+PF04326,Putative DNA-binding domain,Streptococcus,4
+PF04851,"Type III restriction enzyme, res subunit",Enterococcus,4
+PF08937,MTH538 TIR-like domain (DUF1863),Streptococcus,4
+PF08937,MTH538 TIR-like domain (DUF1863),,4
+PF09664,Protein of unknown function C-terminus (DUF2399),Paenibacillus,4
+PF09946,Predicted membrane protein (DUF2178),Priestia,4
+PF13166,AAA domain,Bacillus,4
+PF13173,AAA domain,Mobiluncus,4
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Clostridium,4
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Enterococcus,4
+PF13635,Domain of unknown function (DUF4143),Mobiluncus,4
+PF13635,Domain of unknown function (DUF4143),,4
+PF00004,ATPase family associated with various cellular activities (AAA),Cystobacter,3
+PF00004,ATPase family associated with various cellular activities (AAA),Paenibacillus,3
+PF00145,C-5 cytosine-specific DNA methylase,,3
+PF00271,Helicase conserved C-terminal domain,Streptomyces,3
+PF01909,Nucleotidyltransferase domain,Streptomyces,3
+PF02384,N-6 DNA Methylase,Arthrobacter,3
+PF02384,N-6 DNA Methylase,Enterococcus,3
+PF02384,N-6 DNA Methylase,Paenibacillus,3
+PF03787,RAMP superfamily,,3
+PF03852,DNA mismatch endonuclease Vsr,Clavibacter,3
+PF05015,RelE-like toxin of type II toxin-antitoxin system HigB,Pseudomonas,3
+PF05973,Phage derived protein Gp49-like (DUF891),Streptococcus,3
+PF06114,IrrE N-terminal-like domain,,3
+PF06414,Zeta toxin,,3
+PF08463,EcoEI R protein C-terminal,Paenibacillus,3
+PF08998,Bacterial epsilon antitoxin,Streptococcus,3
+PF09544,Protein of unknown function (DUF2381),Corallococcus,3
+PF09848,"Schlafen group 3, DNA/RNA helicase domain",Enterococcus,3
+PF10387,Protein of unknown function (DUF2442),Pseudomonas,3
+PF12161,HsdM N-terminal domain,Paenibacillus,3
+PF13173,AAA domain,,3
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Blautia,3
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Lysinibacillus,3
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Mycobacterium,3
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Priestia,3
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",,3
+PF13643,Domain of unknown function (DUF4145),Paenibacillus,3
+PF13744,Helix-turn-helix domain,,3
+PF15731,"Antitoxin component of bacterial toxin-antitoxin system, MqsA",,3
+PF00004,ATPase family associated with various cellular activities (AAA),Dorea,2
+PF00004,ATPase family associated with various cellular activities (AAA),Natrinema,2
+PF00004,ATPase family associated with various cellular activities (AAA),Roseovarius,2
+PF00004,ATPase family associated with various cellular activities (AAA),Staphylococcus,2
+PF00004,ATPase family associated with various cellular activities (AAA),Synechococcus,2
+PF00145,C-5 cytosine-specific DNA methylase,Nostoc,2
+PF00176,SNF2-related domain,Paenibacillus,2
+PF00271,Helicase conserved C-terminal domain,Corynebacterium,2
+PF00271,Helicase conserved C-terminal domain,Enterococcus,2
+PF00271,Helicase conserved C-terminal domain,Natrinema,2
+PF00271,Helicase conserved C-terminal domain,Tissierella,2
+PF00580,UvrD/REP helicase N-terminal domain,Caldicellulosiruptor,2
+PF00580,UvrD/REP helicase N-terminal domain,Chryseobacterium,2
+PF01507,Phosphoadenosine phosphosulfate reductase family,Streptomyces,2
+PF01850,PIN domain,Oceanibaculum,2
+PF01850,PIN domain,Streptomyces,2
+PF01930,Domain of unknown function DUF83,Caldicellulosiruptor,2
+PF02384,N-6 DNA Methylase,Rothia,2
+PF02384,N-6 DNA Methylase,Trueperella,2
+PF03235,Protein of unknown function DUF262,Bacillus,2
+PF04014,"Antidote-toxin recognition MazE, bacterial antitoxin",Mesobacillus,2
+PF04149,Domain of unknown function (DUF397),Actinomadura,2
+PF04221,RelB antitoxin,Enterococcus,2
+PF04221,RelB antitoxin,Secundilactobacillus,2
+PF04255,Protein of unknown function (DUF433),Nostoc,2
+PF04851,"Type III restriction enzyme, res subunit",Corynebacterium,2
+PF04851,"Type III restriction enzyme, res subunit",Natrinema,2
+PF04851,"Type III restriction enzyme, res subunit",Staphylococcus,2
+PF04851,"Type III restriction enzyme, res subunit",Streptomyces,2
+PF05016,"ParE toxin of type II toxin-antitoxin system, parDE",Enterococcus,2
+PF05016,"ParE toxin of type II toxin-antitoxin system, parDE",Streptomyces,2
+PF05534,HicB family,Actinoalloteichus,2
+PF06414,Zeta toxin,Paenibacillus,2
+PF06414,Zeta toxin,Rathayibacter,2
+PF06414,Zeta toxin,Secundilactobacillus,2
+PF06414,Zeta toxin,Streptomyces,2
+PF07669,Eco57I restriction-modification methylase,Enterococcus,2
+PF08843,"Nucleotidyl transferase AbiEii toxin, Type IV TA system",Rothia,2
+PF08843,"Nucleotidyl transferase AbiEii toxin, Type IV TA system",Streptococcus,2
+PF08937,MTH538 TIR-like domain (DUF1863),Butyrivibrio,2
+PF09386,Antitoxin ParD,Oceanibaculum,2
+PF10387,Protein of unknown function (DUF2442),Desulfotruncus,2
+PF12161,HsdM N-terminal domain,Arthrobacter,2
+PF13151,Protein of unknown function (DUF3990),Streptococcus,2
+PF13156,Restriction endonuclease,Bacillus,2
+PF13173,AAA domain,Amycolatopsis,2
+PF13173,AAA domain,Paenibacillus,2
+PF13361,UvrD-like helicase C-terminal domain,Caldicellulosiruptor,2
+PF13538,UvrD-like helicase C-terminal domain,Caldicellulosiruptor,2
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Alteromonas,2
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Chryseobacterium,2
+PF13707,RloB-like protein,Actinoalloteichus,2
+PF13744,Helix-turn-helix domain,Kitasatospora,2
+PF13744,Helix-turn-helix domain,Lysobacter,2
+PF13744,Helix-turn-helix domain,Streptomyces,2
+PF15731,"Antitoxin component of bacterial toxin-antitoxin system, MqsA",Gemella,2
+PF00004,ATPase family associated with various cellular activities (AAA),Actinoplanes,1
+PF00004,ATPase family associated with various cellular activities (AAA),Aneurinibacillus,1
+PF00004,ATPase family associated with various cellular activities (AAA),Caldicellulosiruptor,1
+PF00004,ATPase family associated with various cellular activities (AAA),Calothrix,1
+PF00004,ATPase family associated with various cellular activities (AAA),Cylindrospermum,1
+PF00004,ATPase family associated with various cellular activities (AAA),Eubacterium,1
+PF00004,ATPase family associated with various cellular activities (AAA),Gemella,1
+PF00004,ATPase family associated with various cellular activities (AAA),Gemmatimonas,1
+PF00004,ATPase family associated with various cellular activities (AAA),Halorussus,1
+PF00004,ATPase family associated with various cellular activities (AAA),Halothece,1
+PF00004,ATPase family associated with various cellular activities (AAA),Kitasatospora,1
+PF00004,ATPase family associated with various cellular activities (AAA),Lysobacter,1
+PF00004,ATPase family associated with various cellular activities (AAA),Myxococcus,1
+PF00004,ATPase family associated with various cellular activities (AAA),Natronorubrum,1
+PF00004,ATPase family associated with various cellular activities (AAA),Nostoc,1
+PF00004,ATPase family associated with various cellular activities (AAA),Pseudobutyrivibrio,1
+PF00004,ATPase family associated with various cellular activities (AAA),Spirulina,1
+PF00004,ATPase family associated with various cellular activities (AAA),Thermosporothrix,1
+PF00004,ATPase family associated with various cellular activities (AAA),Trueperella,1
+PF00145,C-5 cytosine-specific DNA methylase,Aerococcus,1
+PF00145,C-5 cytosine-specific DNA methylase,Finegoldia,1
+PF00145,C-5 cytosine-specific DNA methylase,Stigmatella,1
+PF00176,SNF2-related domain,Aerococcus,1
+PF00176,SNF2-related domain,Enterococcus,1
+PF00176,SNF2-related domain,Finegoldia,1
+PF00176,SNF2-related domain,Gemella,1
+PF00176,SNF2-related domain,Myxococcus,1
+PF00176,SNF2-related domain,Novibacillus,1
+PF00176,SNF2-related domain,Oceanobacillus,1
+PF00176,SNF2-related domain,Paraliobacillus,1
+PF00176,SNF2-related domain,Peptoniphilus,1
+PF00176,SNF2-related domain,Streptacidiphilus,1
+PF00176,SNF2-related domain,Streptomyces,1
+PF00176,SNF2-related domain,Tissierella,1
+PF00176,SNF2-related domain,Urinicoccus,1
+PF00271,Helicase conserved C-terminal domain,Aerococcus,1
+PF00271,Helicase conserved C-terminal domain,Bacillus,1
+PF00271,Helicase conserved C-terminal domain,Blautia,1
+PF00271,Helicase conserved C-terminal domain,Chryseomicrobium,1
+PF00271,Helicase conserved C-terminal domain,Dyella,1
+PF00271,Helicase conserved C-terminal domain,Eggerthella,1
+PF00271,Helicase conserved C-terminal domain,Finegoldia,1
+PF00271,Helicase conserved C-terminal domain,Kineothrix,1
+PF00271,Helicase conserved C-terminal domain,Micromonospora,1
+PF00271,Helicase conserved C-terminal domain,Myxococcus,1
+PF00271,Helicase conserved C-terminal domain,Novibacillus,1
+PF00271,Helicase conserved C-terminal domain,Paraliobacillus,1
+PF00271,Helicase conserved C-terminal domain,Pedobacter,1
+PF00271,Helicase conserved C-terminal domain,Peptoniphilus,1
+PF00271,Helicase conserved C-terminal domain,Staphylococcus,1
+PF00271,Helicase conserved C-terminal domain,Streptacidiphilus,1
+PF00271,Helicase conserved C-terminal domain,Synechococcus,1
+PF00271,Helicase conserved C-terminal domain,Tychonema,1
+PF00271,Helicase conserved C-terminal domain,Urinicoccus,1
+PF00271,Helicase conserved C-terminal domain,,1
+PF00580,UvrD/REP helicase N-terminal domain,Bacillus,1
+PF00580,UvrD/REP helicase N-terminal domain,Chryseomicrobium,1
+PF00580,UvrD/REP helicase N-terminal domain,Enterococcus,1
+PF00580,UvrD/REP helicase N-terminal domain,Gemella,1
+PF00580,UvrD/REP helicase N-terminal domain,Halobiforma,1
+PF00580,UvrD/REP helicase N-terminal domain,Lactiplantibacillus,1
+PF00580,UvrD/REP helicase N-terminal domain,Priestia,1
+PF00580,UvrD/REP helicase N-terminal domain,Pseudanabaena,1
+PF00580,UvrD/REP helicase N-terminal domain,Virgibacillus,1
+PF01420,Type I restriction modification DNA specificity domain,Arthrobacter,1
+PF01420,Type I restriction modification DNA specificity domain,Corynebacterium,1
+PF01420,Type I restriction modification DNA specificity domain,Nostoc,1
+PF01420,Type I restriction modification DNA specificity domain,Trueperella,1
+PF01420,Type I restriction modification DNA specificity domain,,1
+PF01507,Phosphoadenosine phosphosulfate reductase family,Bacillus,1
+PF01507,Phosphoadenosine phosphosulfate reductase family,Mediterraneibacter,1
+PF01555,DNA methylase,Mediterraneibacter,1
+PF01555,DNA methylase,Stigmatella,1
+PF01850,PIN domain,Actinomyces,1
+PF01850,PIN domain,Leptolyngbya,1
+PF01850,PIN domain,Salinispora,1
+PF01850,PIN domain,Synechocystis,1
+PF01867,CRISPR associated protein Cas1,Tissierella,1
+PF01881,"CRISPR associated protein Cas6, C-terminal",Bacillus,1
+PF01909,Nucleotidyltransferase domain,Chamaesiphon,1
+PF01909,Nucleotidyltransferase domain,Saccharibacillus,1
+PF01909,Nucleotidyltransferase domain,Salinispora,1
+PF01909,Nucleotidyltransferase domain,Staphylococcus,1
+PF01909,Nucleotidyltransferase domain,Streptococcus,1
+PF01909,Nucleotidyltransferase domain,,1
+PF01930,Domain of unknown function DUF83,Tissierella,1
+PF02384,N-6 DNA Methylase,Actinomyces,1
+PF02384,N-6 DNA Methylase,Corynebacterium,1
+PF02384,N-6 DNA Methylase,Flavobacterium,1
+PF02384,N-6 DNA Methylase,Leuconostoc,1
+PF02384,N-6 DNA Methylase,Nostoc,1
+PF02384,N-6 DNA Methylase,Streptomyces,1
+PF02604,"Antitoxin Phd_YefM, type II toxin-antitoxin system",Actinomyces,1
+PF02604,"Antitoxin Phd_YefM, type II toxin-antitoxin system",Anaerosacchariphilus,1
+PF02604,"Antitoxin Phd_YefM, type II toxin-antitoxin system",Rothia,1
+PF02604,"Antitoxin Phd_YefM, type II toxin-antitoxin system",Trueperella,1
+PF02604,"Antitoxin Phd_YefM, type II toxin-antitoxin system",Urinicoccus,1
+PF03235,Protein of unknown function DUF262,Coprococcus,1
+PF03235,Protein of unknown function DUF262,Lysobacter,1
+PF03235,Protein of unknown function DUF262,Mucilaginibacter,1
+PF03235,Protein of unknown function DUF262,Streptococcus,1
+PF03683,Uncharacterised protein family (UPF0175),Halorussus,1
+PF03693,Bacterial antitoxin of ParD toxin-antitoxin type II system and RHH,Roseovarius,1
+PF03852,DNA mismatch endonuclease Vsr,Arachnia,1
+PF04014,"Antidote-toxin recognition MazE, bacterial antitoxin",Corynebacterium,1
+PF04014,"Antidote-toxin recognition MazE, bacterial antitoxin",Oceanobacillus,1
+PF04014,"Antidote-toxin recognition MazE, bacterial antitoxin",Paenibacillus,1
+PF04014,"Antidote-toxin recognition MazE, bacterial antitoxin",Priestia,1
+PF04014,"Antidote-toxin recognition MazE, bacterial antitoxin",Staphylococcus,1
+PF04014,"Antidote-toxin recognition MazE, bacterial antitoxin",,1
+PF04149,Domain of unknown function (DUF397),Actinacidiphila,1
+PF04149,Domain of unknown function (DUF397),Herbidospora,1
+PF04149,Domain of unknown function (DUF397),Nonomuraea,1
+PF04149,Domain of unknown function (DUF397),Salinispora,1
+PF04255,Protein of unknown function (DUF433),Kamptonema,1
+PF04255,Protein of unknown function (DUF433),,1
+PF04313,Type I restriction enzyme R protein N terminus (HSDR_N),Arthrobacter,1
+PF04851,"Type III restriction enzyme, res subunit",Aerococcus,1
+PF04851,"Type III restriction enzyme, res subunit",Arthrobacter,1
+PF04851,"Type III restriction enzyme, res subunit",Austwickia,1
+PF04851,"Type III restriction enzyme, res subunit",Bacillus,1
+PF04851,"Type III restriction enzyme, res subunit",Blautia,1
+PF04851,"Type III restriction enzyme, res subunit",Finegoldia,1
+PF04851,"Type III restriction enzyme, res subunit",Gemella,1
+PF04851,"Type III restriction enzyme, res subunit",Novibacillus,1
+PF04851,"Type III restriction enzyme, res subunit",Oceanobacillus,1
+PF04851,"Type III restriction enzyme, res subunit",Paraliobacillus,1
+PF04851,"Type III restriction enzyme, res subunit",Pedobacter,1
+PF04851,"Type III restriction enzyme, res subunit",Peptoniphilus,1
+PF04851,"Type III restriction enzyme, res subunit",Synechococcus,1
+PF04851,"Type III restriction enzyme, res subunit",Tissierella,1
+PF04851,"Type III restriction enzyme, res subunit",Tychonema,1
+PF04851,"Type III restriction enzyme, res subunit",Urinicoccus,1
+PF04851,"Type III restriction enzyme, res subunit",,1
+PF05016,"ParE toxin of type II toxin-antitoxin system, parDE",Anaerosacchariphilus,1
+PF05016,"ParE toxin of type II toxin-antitoxin system, parDE",Butyrivibrio,1
+PF05016,"ParE toxin of type II toxin-antitoxin system, parDE",Microcystis,1
+PF05016,"ParE toxin of type II toxin-antitoxin system, parDE",Nostoc,1
+PF05016,"ParE toxin of type II toxin-antitoxin system, parDE",Roseovarius,1
+PF05016,"ParE toxin of type II toxin-antitoxin system, parDE",,1
+PF05107,CRISPR-associated protein Cas7,Bacillus,1
+PF05168,HEPN domain,Butyrivibrio,1
+PF05534,HicB family,Actinomadura,1
+PF05534,HicB family,Arachnia,1
+PF06067,Domain of unknown function (DUF932),Chryseobacterium,1
+PF06114,IrrE N-terminal-like domain,Actinomyces,1
+PF06114,IrrE N-terminal-like domain,Clavibacter,1
+PF06114,IrrE N-terminal-like domain,Clostridium,1
+PF06114,IrrE N-terminal-like domain,Hoyosella,1
+PF06114,IrrE N-terminal-like domain,Pontibacillus,1
+PF06414,Zeta toxin,Bacillus,1
+PF06414,Zeta toxin,Clostridium,1
+PF06414,Zeta toxin,Fischerella,1
+PF06414,Zeta toxin,Lactobacillus,1
+PF06769,YoeB-like toxin of bacterial type II toxin-antitoxin system,Nostoc,1
+PF07362,Post-segregation antitoxin CcdA,Embleya,1
+PF07669,Eco57I restriction-modification methylase,Clostridium,1
+PF07669,Eco57I restriction-modification methylase,Flavobacterium,1
+PF07669,Eco57I restriction-modification methylase,Leuconostoc,1
+PF07669,Eco57I restriction-modification methylase,Trueperella,1
+PF07927,"HicA toxin of bacterial toxin-antitoxin,",Clostridium,1
+PF08463,EcoEI R protein C-terminal,Corynebacterium,1
+PF08665,PglZ domain,Leuconostoc,1
+PF08665,PglZ domain,Streptomyces,1
+PF08808,RES domain,Clavibacter,1
+PF08843,"Nucleotidyl transferase AbiEii toxin, Type IV TA system",Blautia,1
+PF08843,"Nucleotidyl transferase AbiEii toxin, Type IV TA system",Finegoldia,1
+PF08843,"Nucleotidyl transferase AbiEii toxin, Type IV TA system",Mediterraneibacter,1
+PF08843,"Nucleotidyl transferase AbiEii toxin, Type IV TA system",Pedobacter,1
+PF08843,"Nucleotidyl transferase AbiEii toxin, Type IV TA system",Peptoniphilus,1
+PF08843,"Nucleotidyl transferase AbiEii toxin, Type IV TA system",Streptomyces,1
+PF08843,"Nucleotidyl transferase AbiEii toxin, Type IV TA system",Urinicoccus,1
+PF08937,MTH538 TIR-like domain (DUF1863),Actinoplanes,1
+PF09369,MrfA Zn-binding domain,Streptomyces,1
+PF09376,NurA domain,Moorena,1
+PF09376,NurA domain,,1
+PF09491,AlwI restriction endonuclease,Staphylococcus,1
+PF09509,Protein of unknown function (Hypoth_ymh),Chryseobacterium,1
+PF09520,"Type II restriction endonuclease, TdeIII",Nostoc,1
+PF09520,"Type II restriction endonuclease, TdeIII",,1
+PF09544,Protein of unknown function (DUF2381),Archangium,1
+PF09544,Protein of unknown function (DUF2381),Melittangium,1
+PF09544,Protein of unknown function (DUF2381),Vitiosangium,1
+PF09553,Eco47II restriction endonuclease,Streptococcus,1
+PF09565,NgoFVII restriction endonuclease,Bacillus,1
+PF09664,Protein of unknown function C-terminus (DUF2399),Bacillus,1
+PF09664,Protein of unknown function C-terminus (DUF2399),Cytobacillus,1
+PF09720,Putative addiction module component,,1
+PF09827,CRISPR associated protein Cas2,Tissierella,1
+PF09848,"Schlafen group 3, DNA/RNA helicase domain",Chryseobacterium,1
+PF09848,"Schlafen group 3, DNA/RNA helicase domain",Ktedonosporobacter,1
+PF09848,"Schlafen group 3, DNA/RNA helicase domain",Oceanobacillus,1
+PF09848,"Schlafen group 3, DNA/RNA helicase domain",Streptococcus,1
+PF09946,Predicted membrane protein (DUF2178),Bacillus,1
+PF09946,Predicted membrane protein (DUF2178),Lysobacter,1
+PF09954,Uncharacterized protein conserved in bacteria (DUF2188),Kitasatospora,1
+PF09957,"Bacterial antitoxin of type II TA system, VapB",Leptolyngbya,1
+PF10047,Protein of unknown function (DUF2281),Nostoc,1
+PF10117,McrBC 5-methylcytosine restriction system component,Bacillus,1
+PF10117,McrBC 5-methylcytosine restriction system component,,1
+PF10387,Protein of unknown function (DUF2442),Desulfosporosinus,1
+PF10543,ORF6N domain,Streptococcus,1
+PF10544,T5orf172 domain,Streptococcus,1
+PF10592,AIPR protein,Staphylococcus,1
+PF10593,Z1 domain,Streptococcus,1
+PF11796,Protein of unknown function N-terminus (DUF3323),Bacillus,1
+PF11796,Protein of unknown function N-terminus (DUF3323),Cytobacillus,1
+PF11848,Domain of unknown function (DUF3368),Halorussus,1
+PF11867,Domain of unknown function (DUF3387),Nostoc,1
+PF12161,HsdM N-terminal domain,Corynebacterium,1
+PF12161,HsdM N-terminal domain,Trueperella,1
+PF13151,Protein of unknown function (DUF3990),Butyrivibrio,1
+PF13156,Restriction endonuclease,Nostoc,1
+PF13156,Restriction endonuclease,Priestia,1
+PF13166,AAA domain,Blautia,1
+PF13166,AAA domain,Faecalimonas,1
+PF13166,AAA domain,Lactobacillus,1
+PF13166,AAA domain,Peptoniphilus,1
+PF13166,AAA domain,Tissierella,1
+PF13166,AAA domain,Urinicoccus,1
+PF13173,AAA domain,Bifidobacterium,1
+PF13173,AAA domain,Cylindrospermum,1
+PF13173,AAA domain,Eggerthella,1
+PF13173,AAA domain,Priestia,1
+PF13173,AAA domain,Streptomyces,1
+PF13182,Protein of unknown function (DUF4007),Lachnobacterium,1
+PF13337,"Lon-like protease BrxL-like, ATPase domain",Leuconostoc,1
+PF13361,UvrD-like helicase C-terminal domain,Bacillus,1
+PF13361,UvrD-like helicase C-terminal domain,Enterococcus,1
+PF13361,UvrD-like helicase C-terminal domain,Gemella,1
+PF13361,UvrD-like helicase C-terminal domain,Halobiforma,1
+PF13361,UvrD-like helicase C-terminal domain,Lactiplantibacillus,1
+PF13361,UvrD-like helicase C-terminal domain,Priestia,1
+PF13361,UvrD-like helicase C-terminal domain,Pseudanabaena,1
+PF13361,UvrD-like helicase C-terminal domain,Virgibacillus,1
+PF13391,HNH endonuclease,Bacillus,1
+PF13391,HNH endonuclease,,1
+PF13395,HNH endonuclease,Bacillus,1
+PF13395,HNH endonuclease,Clostridium,1
+PF13395,HNH endonuclease,Geobacillus,1
+PF13395,HNH endonuclease,Lactobacillus,1
+PF13395,HNH endonuclease,Moorena,1
+PF13395,HNH endonuclease,Synechocystis,1
+PF13470,PIN domain,Synechocystis,1
+PF13538,UvrD-like helicase C-terminal domain,Bacillus,1
+PF13538,UvrD-like helicase C-terminal domain,Chryseobacterium,1
+PF13538,UvrD-like helicase C-terminal domain,Chryseomicrobium,1
+PF13538,UvrD-like helicase C-terminal domain,Coprococcus,1
+PF13538,UvrD-like helicase C-terminal domain,Enterococcus,1
+PF13538,UvrD-like helicase C-terminal domain,Gemella,1
+PF13538,UvrD-like helicase C-terminal domain,Halobiforma,1
+PF13538,UvrD-like helicase C-terminal domain,Hoyosella,1
+PF13538,UvrD-like helicase C-terminal domain,Lactiplantibacillus,1
+PF13538,UvrD-like helicase C-terminal domain,Leuconostoc,1
+PF13538,UvrD-like helicase C-terminal domain,Pseudanabaena,1
+PF13538,UvrD-like helicase C-terminal domain,Trichormus,1
+PF13538,UvrD-like helicase C-terminal domain,Virgibacillus,1
+PF13538,UvrD-like helicase C-terminal domain,,1
+PF13588,Type I restriction enzyme R protein N terminus (HSDR_N),Nostoc,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Actinomadura,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Aerococcus,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Anaerosacchariphilus,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Baia,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Brochothrix,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Clavibacter,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Coprococcus,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Desulfosporosinus,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Dorea,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Faecalimonas,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Kineothrix,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Novibacillus,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Pedobacter,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Proteiniborus,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Roseburia,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Sorangium,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Streptomyces,1
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",Virgibacillus,1
+PF13635,Domain of unknown function (DUF4143),Eggerthella,1
+PF13635,Domain of unknown function (DUF4143),Streptococcus,1
+PF13643,Domain of unknown function (DUF4145),Corynebacterium,1
+PF13707,RloB-like protein,Blautia,1
+PF13707,RloB-like protein,Butyrivibrio,1
+PF13744,Helix-turn-helix domain,Actinomadura,1
+PF13744,Helix-turn-helix domain,Agromyces,1
+PF13744,Helix-turn-helix domain,Bacillus,1
+PF13744,Helix-turn-helix domain,Clostridium,1
+PF13744,Helix-turn-helix domain,Eggerthella,1
+PF13744,Helix-turn-helix domain,Geobacillus,1
+PF13744,Helix-turn-helix domain,Salinispora,1
+PF13744,Helix-turn-helix domain,Staphylococcus,1
+PF13749,Putative ATP-dependent DNA helicase recG C-terminal,Roseburia,1
+PF13749,Putative ATP-dependent DNA helicase recG C-terminal,Streptococcus,1
+PF13784,Fic/DOC family N-terminal,,1
+PF14072,DNA-sulfur modification-associated,,1
+PF14130,Cap4 dsDNA endonuclease,Bacillus,1
+PF14253,Bacteriophage abortive infection AbiH,Staphylococcus,1
+PF14267,Domain of unknown function (DUF4357),Lysobacter,1
+PF14355,Abortive infection C-terminus,Finegoldia,1
+PF14390,"Putative PD-(D/E)XK family member, (DUF4420)",Streptococcus,1
+PF14511,Type II restriction endonuclease EcoO109I,Nostoc,1
+PF14511,Type II restriction endonuclease EcoO109I,,1
+PF15611,EH_Signature domain,Oscillatoria,1
+PF15738,"Bacterial toxin of type II toxin-antitoxin system, YafQ",Enterococcus,1
+PF15738,"Bacterial toxin of type II toxin-antitoxin system, YafQ",Microcystis,1

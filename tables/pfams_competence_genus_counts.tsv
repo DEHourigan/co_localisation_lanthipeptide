@@ -1,0 +1,16 @@
+pfam,desc,genus,n
+PF07508,Recombinase,Streptococcus,53
+PF00154,recA bacterial DNA recombination protein,Streptococcus,39
+PF05952,Bacillus competence pheromone ComX,Bacillus,13
+PF05952,Bacillus competence pheromone ComX,,6
+PF00154,recA bacterial DNA recombination protein,Enterococcus,5
+PF00154,recA bacterial DNA recombination protein,Chryseobacterium,3
+PF07508,Recombinase,Tissierella,3
+PF05952,Bacillus competence pheromone ComX,Geobacillus,2
+PF07508,Recombinase,Mediterraneibacter,2
+PF07508,Recombinase,Staphylococcus,2
+PF07508,Recombinase,,2
+PF00154,recA bacterial DNA recombination protein,Herbidospora,1
+PF07508,Recombinase,Anaerobutyricum,1
+PF07508,Recombinase,Clostridium,1
+PF07508,Recombinase,Virgibacillus,1

@@ -1,0 +1,109 @@
+pfam,desc,n
+PF13304,"AAA domain, putative AbiEii toxin, Type IV TA system",1536
+PF13555,P-loop containing region of AAA domain,543
+PF13175,AAA ATPase domain,254
+PF13604,AAA domain,166
+PF04851,"Type III restriction enzyme, res subunit",119
+PF00004,ATPase family associated with various cellular activities (AAA),98
+PF13589,"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",93
+PF05016,"ParE toxin of type II toxin-antitoxin system, parDE",81
+PF01420,Type I restriction modification DNA specificity domain,79
+PF02384,N-6 DNA Methylase,76
+PF06414,Zeta toxin,70
+PF04221,RelB antitoxin,66
+PF00271,Helicase conserved C-terminal domain,59
+PF12161,HsdM N-terminal domain,56
+PF07669,Eco57I restriction-modification methylase,52
+PF04313,Type I restriction enzyme R protein N terminus (HSDR_N),48
+PF12008,Type I restriction and modification enzyme - subunit R C terminal,47
+PF15731,"Antitoxin component of bacterial toxin-antitoxin system, MqsA",44
+PF13744,Helix-turn-helix domain,42
+PF13173,AAA domain,41
+PF00176,SNF2-related domain,40
+PF06114,IrrE N-terminal-like domain,33
+PF13538,UvrD-like helicase C-terminal domain,28
+PF04149,Domain of unknown function (DUF397),25
+PF00580,UvrD/REP helicase N-terminal domain,20
+PF01555,DNA methylase,18
+PF09848,"Schlafen group 3, DNA/RNA helicase domain",17
+PF13166,AAA domain,17
+PF00145,C-5 cytosine-specific DNA methylase,16
+PF13361,UvrD-like helicase C-terminal domain,15
+PF04014,"Antidote-toxin recognition MazE, bacterial antitoxin",14
+PF13156,Restriction endonuclease,12
+PF07751,Abi-like protein,11
+PF08843,"Nucleotidyl transferase AbiEii toxin, Type IV TA system",11
+PF08937,MTH538 TIR-like domain (DUF1863),11
+PF13635,Domain of unknown function (DUF4143),10
+PF01909,Nucleotidyltransferase domain,9
+PF01850,PIN domain,8
+PF03235,Protein of unknown function DUF262,6
+PF09544,Protein of unknown function (DUF2381),6
+PF09664,Protein of unknown function C-terminus (DUF2399),6
+PF09946,Predicted membrane protein (DUF2178),6
+PF10387,Protein of unknown function (DUF2442),6
+PF13395,HNH endonuclease,6
+PF02604,"Antitoxin Phd_YefM, type II toxin-antitoxin system",5
+PF01507,Phosphoadenosine phosphosulfate reductase family,4
+PF03852,DNA mismatch endonuclease Vsr,4
+PF04255,Protein of unknown function (DUF433),4
+PF04326,Putative DNA-binding domain,4
+PF05534,HicB family,4
+PF08463,EcoEI R protein C-terminal,4
+PF13643,Domain of unknown function (DUF4145),4
+PF13707,RloB-like protein,4
+PF01930,Domain of unknown function DUF83,3
+PF03787,RAMP superfamily,3
+PF05015,RelE-like toxin of type II toxin-antitoxin system HigB,3
+PF05973,Phage derived protein Gp49-like (DUF891),3
+PF08998,Bacterial epsilon antitoxin,3
+PF13151,Protein of unknown function (DUF3990),3
+PF08665,PglZ domain,2
+PF09376,NurA domain,2
+PF09386,Antitoxin ParD,2
+PF09520,"Type II restriction endonuclease, TdeIII",2
+PF10117,McrBC 5-methylcytosine restriction system component,2
+PF11796,Protein of unknown function N-terminus (DUF3323),2
+PF13391,HNH endonuclease,2
+PF13749,Putative ATP-dependent DNA helicase recG C-terminal,2
+PF14511,Type II restriction endonuclease EcoO109I,2
+PF15738,"Bacterial toxin of type II toxin-antitoxin system, YafQ",2
+PF01867,CRISPR associated protein Cas1,1
+PF01881,"CRISPR associated protein Cas6, C-terminal",1
+PF03683,Uncharacterised protein family (UPF0175),1
+PF03693,Bacterial antitoxin of ParD toxin-antitoxin type II system and RHH,1
+PF05107,CRISPR-associated protein Cas7,1
+PF05168,HEPN domain,1
+PF06067,Domain of unknown function (DUF932),1
+PF06769,YoeB-like toxin of bacterial type II toxin-antitoxin system,1
+PF07362,Post-segregation antitoxin CcdA,1
+PF07927,"HicA toxin of bacterial toxin-antitoxin,",1
+PF08808,RES domain,1
+PF09369,MrfA Zn-binding domain,1
+PF09491,AlwI restriction endonuclease,1
+PF09509,Protein of unknown function (Hypoth_ymh),1
+PF09553,Eco47II restriction endonuclease,1
+PF09565,NgoFVII restriction endonuclease,1
+PF09720,Putative addiction module component,1
+PF09827,CRISPR associated protein Cas2,1
+PF09954,Uncharacterized protein conserved in bacteria (DUF2188),1
+PF09957,"Bacterial antitoxin of type II TA system, VapB",1
+PF10047,Protein of unknown function (DUF2281),1
+PF10543,ORF6N domain,1
+PF10544,T5orf172 domain,1
+PF10592,AIPR protein,1
+PF10593,Z1 domain,1
+PF11848,Domain of unknown function (DUF3368),1
+PF11867,Domain of unknown function (DUF3387),1
+PF13182,Protein of unknown function (DUF4007),1
+PF13337,"Lon-like protease BrxL-like, ATPase domain",1
+PF13470,PIN domain,1
+PF13588,Type I restriction enzyme R protein N terminus (HSDR_N),1
+PF13784,Fic/DOC family N-terminal,1
+PF14072,DNA-sulfur modification-associated,1
+PF14130,Cap4 dsDNA endonuclease,1
+PF14253,Bacteriophage abortive infection AbiH,1
+PF14267,Domain of unknown function (DUF4357),1
+PF14355,Abortive infection C-terminus,1
+PF14390,"Putative PD-(D/E)XK family member, (DUF4420)",1
+PF15611,EH_Signature domain,1
